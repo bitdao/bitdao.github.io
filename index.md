@@ -1,3 +1,5 @@
+
+
 # Vision
 
 > **BitDao is a decentralized platform that enables people to directly, freely, and securely exchange information and value.** 
